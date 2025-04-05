@@ -1,4 +1,4 @@
-📊 #Power BI Projects Collection
+📊 Power BI Projects Collection
 
 This repository showcases a collection of interactive Power BI dashboards built across various domains and use cases. Each project focuses on solving real-world problems using data visualization, insight generation, and storytelling with data.
 
